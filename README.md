@@ -3,7 +3,7 @@
 
   
 
-Olá! Meu nome é Samuel Dias, tenho 24 anos e sou um entusiasta da programação. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor e contribuir para projetos interessantes no GitHub.
+Olá! Meu nome é Samuel Dias, e sou um entusiasta da tecnologia. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor e contribuir para projetos interessantes no GitHub.
 
   
 
