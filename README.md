@@ -1,53 +1,45 @@
+## 👋 Olá! Eu sou Samuel Dias
 
-# Samuel Dias
+🎓 **Estudante de Cibersegurança**  
+🔒 Apaixonado por proteger sistemas e aprender algo novo todos os dias.
 
-  
+**Principais habilidades:**  
+- Python  
+- JavaScript  
+- Bash & Linux
 
-Olá! Meu nome é Samuel Dias, e sou um entusiasta da tecnologia. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor e contribuir para projetos interessantes no GitHub.
+**Hobbies:**  
+🏃 Corrida & 🏋️‍♂️ Academia
 
-  
+**Contato:**  
+- 📧 samueldias84@proton.me
 
-## Habilidades
+**Onde me encontrar:**  
+- [LinkedIn](https://www.linkedin.com/in/samuel-dias48/)  
+- [Meu site](https://samdias.net/)
 
-  
+---
 
-  **Linguagens de Programação:**
+## 👋 Hi there! I'm Samuel Dias
 
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+🎓 **Cybersecurity Student**  
+🔒 Passionate about protecting systems and learning more every day.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**Top Skills:**  
+- Python  
+- JavaScript  
+- Bash & Linux
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Hobbies:**  
+🏃 Running & 🏋️‍♂️ Gym
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Contact:**  
+- 📧 samueldias84@proton.me
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/samuel-dias48/)  
+- [My Website](https://samdias.net/)
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+---
 
-![Linux](https://img.shields.io/badge/Linux-555?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-  
-  
-  
-
-## Objetivos
-
-  
-
-  
-
-Meu objetivo é aprimorar minhas habilidades como desenvolvedor, contribuir para projetos open source e aprender com a comunidade de desenvolvimento. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e experiência.
-
-
-- 🔭 No momento estou estudando python
-- 📫 Meu Emai: samuel.dias.rosa99@gmail.com
-- 😄 Pronomes: Ele/Dele
-
-
-
-  
-
-## Contato
-
--  GitHub: [samuelgithub](https://github.com/samueldias99)
+> Sempre aprendendo, sempre evoluindo. / Always learning, always growing.
