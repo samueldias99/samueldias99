@@ -1,12 +1,16 @@
 ## 👋 Olá! Eu sou Samuel Dias
 
 🎓 **Estudante de Cibersegurança**  
-🔒 Apaixonado por proteger sistemas e aprender algo novo todos os dias.
+🔒 Apaixonado por aprender algo novo todos os dias.
 
 **Principais habilidades:**  
 - Python  
-- JavaScript  
+- JavaScript
 - Bash & Linux
+- Docker
+- squid
+- nginx
+- splunk
 
 **Hobbies:**  
 🏃 Corrida & 🏋️‍♂️ Academia
@@ -29,6 +33,11 @@
 - Python  
 - JavaScript  
 - Bash & Linux
+- Docker
+- squid
+- nginx
+- splunk
+
 
 **Hobbies:**  
 🏃 Running & 🏋️‍♂️ Gym
